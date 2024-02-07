@@ -1,0 +1,4 @@
+python3-arrow: copyright-without-copyright-notice
+python3-arrow: initial-upload-closes-no-bugs
+python3-arrow: no-manual-page
+python3-arrow: zero-byte-file-in-doc-directory
