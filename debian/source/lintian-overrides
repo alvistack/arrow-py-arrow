@@ -1,0 +1,4 @@
+python-arrow source: file-without-copyright-information
+python-arrow source: no-debian-changes
+python-arrow source: source-contains-prebuilt-windows-binary
+python-arrow source: source-package-encodes-python-version
